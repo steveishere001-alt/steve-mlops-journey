@@ -1,0 +1,7 @@
+id,nombre,ubicacion,ip,estado,resolucion,tecnologia,grabador
+camara_007,escalera_001,escalera,192.168.1.112,danada,1080p,digital,B3_NVR
+camara_016,bodega_001,bodega,192.168.1.127,danada,vga,analoga,B3_NVR
+camara_024,cuarto_de_basura,cuarto_de_basura,192.168.1.135,danada,720p,tvl,B3_DVR_1
+camara_031,puerta_trasera,puerta_trasera,192.168.1.142,danada,720p,tvl,B3_DVR_1
+camara_034,salida_emergencia_2,salida_de_emergencia_segundo_piso,192.168.1.145,danada,720p,tvl,B3_DVR_2
+camara_039,pasillo_basement,pasillo_del_sotano,192.168.1.150,danada,720p,tvl,B3_DVR_2
